@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UAS Al-Quran</string>
+    <string name="surah">List Surah</string>
+    <string name="bismillah">بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ</string>
+    <string name="arti">Arti Ayat : Lorem Ipsum</string>
+    <string name="number">1</string>
+    <string name="infoSurah">Dan apabila dikatakan kepada mereka, \"Berimanlah kamu sebagaimana orang lain yang telah beriman!\" Mereka menjawab, \"Apakah kami akan beriman seperti orang-orang yang kurang akal itu beriman?\" Ingatlah, sesungguhnya mereka itulah orang-orang yang kurang akal, tetapi mereka tidak tahu.</string>
+</resources>
